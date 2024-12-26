@@ -1,0 +1,7 @@
+Licence.txt
+setup.py
+sslcalculator/__init__.py
+sslcalculator.egg-info/PKG-INFO
+sslcalculator.egg-info/SOURCES.txt
+sslcalculator.egg-info/dependency_links.txt
+sslcalculator.egg-info/top_level.txt
